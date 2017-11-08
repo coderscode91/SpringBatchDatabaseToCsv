@@ -1,0 +1,5 @@
+com\verizone\springbatch\Main.class
+com\verizone\springbatch\ExamResultJobListener.class
+com\verizone\springbatch\ExamResultRowMapper.class
+com\verizone\springbatch\model\ExamResult.class
+com\verizone\springbatch\ExamResultItemProcessor.class
